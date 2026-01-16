@@ -268,6 +268,9 @@ return {
       cssls = {},
       eslint = {},
 
+      -- Markdown LSP for note-taking (wiki links, document outline, go-to-definition)
+      marksman = {},
+
       lua_ls = {
         -- cmd = { ... },
         -- filetypes = { ... },
